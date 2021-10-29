@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Movie Mobile Application</string>
+    <string name="usernameInput">UserName</string>
+    <string name="passwordInput">Password</string>
+    <string name="loginBtn">Login</string>
+    <string name="registerBtn">Register</string>
+    <string name="adminpanelText">Admin Panel</string>
+    <string name="addgameBtn">Add</string>
+    <string name="gamelistText">Games</string>
+    <string name="gameoverviewText">Game Overview</string>
+    <string name="rateText">Rate</string>
+    <string name="commentsText">Comments</string>
+    <string name="submitBtn">Submit</string>
+    <string name="currentratingText">Current Rating</string>
+</resources>
